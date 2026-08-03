@@ -1,7 +1,7 @@
 # Games_And_Cheats
 Differents games and cheats that I made with C
 
-## First Game: SNAKE
+## First Game: SNAKE (work only on linux, but soon i will adapt it to windows or others OS)
 I made a snake in C and I used the polya methodology for the pre-development of this game.
 
 ### Cheat 1: Adding a big Score each time the apple was eaten by the snake
