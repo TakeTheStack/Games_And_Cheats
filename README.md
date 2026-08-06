@@ -14,3 +14,6 @@ I want to be able to get behind the game's wall without triggering a "Game Over"
 
 ### Cheat 1: Invincible pacman life
 I disassemble the object file with Ghidra and patch the instruction corresponding to the life variable and life decrement, which make pacman immortal and invincible.
+
+### Cheat 2: Infinite time score
+I disassemble the object file with Ghidra and patch several instructions with NOP (do nothing), on ​​the if conditional of touching a coin/pellets with pacman, which increases the score every time.
