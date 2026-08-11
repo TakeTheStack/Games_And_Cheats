@@ -17,3 +17,5 @@ I disassemble the object file with Ghidra and patch the instruction correspondin
 
 ### Cheat 2: Infinite time score
 I disassemble the object file with Ghidra and patch several instructions with NOP (do nothing), on ​​the if conditional of touching a coin/pellets with pacman, which increases the score every time.
+
+## Third Game: SPACE INVADER (work only on linux, but soon i will adapt it to windows or others OS)
