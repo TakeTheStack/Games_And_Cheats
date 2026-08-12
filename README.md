@@ -1,5 +1,5 @@
 # Games_And_Cheats
-Differents games and cheats that I made with C ; i made cheate by reversing and disassemble the object file with Ghidra (or another tools).
+Differents games and cheats that I made with C ; i made cheats by reversing and disassemble the object file with Ghidra (or another tools).
 
 ## First Game: SNAKE (work only on linux, but soon i will adapt it to windows or others OS)
 I made a snake in C and I used the polya methodology for the pre-development of this game.
