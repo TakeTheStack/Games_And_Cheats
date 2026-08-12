@@ -20,6 +20,9 @@ I disassemble the object file with Ghidra and patch several instructions with NO
 
 ## Third Game: SPACE INVADER (work only on linux, but soon i will adapt it to windows or others OS)
 
-### cheat 1: Shoot
+### Cheat 1: Shoot
 I disassemble the object file with Ghidra and patch several instructions with NOP (do nothing), so i can make impossible for the enemies to shoot the player, 
 also to give the possible for the player to get through all the protections.
+
+### cheat 2: Instant Win
+I disassemble the object file with Ghidra and patch several instructions, which mean, every time you start the game, you win.
