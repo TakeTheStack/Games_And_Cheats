@@ -1,6 +1,11 @@
 # Games_And_Cheats
 Differents games and cheats that I made with C ; i made cheats by reversing and disassemble the object file with Ghidra (or another tools).
 
+Allowed: You can hack this game with contribution, in order to improve this game or just for the fun, if you want too ;)
+Not-allowed: You are not allowed each of these games into malware AND/OR running them on an electronic device that you do not own.
+
+Advice: Have fun and take your time, when you hacking this game on your computer ;)
+
 ## First Game: SNAKE (work only on linux, but soon i will adapt it to windows or others OS)
 I made a snake in C and I used the polya methodology for the pre-development of this game.
 
@@ -26,3 +31,10 @@ also to give the possible for the player to get through all the protections.
 
 ### cheat 2: Instant Win
 I disassemble the object file with Ghidra and patch several instructions, which mean, every time you start the game, you win.
+
+### Fourth Game: FINAL ADVENTURE (Experimental RPG Game)
+Please be aware that this game is experimental and not stable.
+
+## Cheat 1: God like
+
+## Cheat 2: Soften the target
