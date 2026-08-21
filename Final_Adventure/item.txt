@@ -1,0 +1,10 @@
+1	needle			11	book		21	iron_ore		31	wooden_bow		41	wooden_dagger		51	x
+2	bad_leather		12	potion		22	copper_ore		32	iron_bow		42	iron_dagger		52	x
+3	stone			13	x		23	silver_ore		33	steel_bow		43	steel_dagger		53	x
+4	leather			14	x		24	gold_ore		34	copper_bow		44	copper_dagger		54	x
+5	bones			15	x		25	diamond_ore		35	silver_bow		45	silver_dagger		55	x
+6	fur			16	x		26	mystical_ore		36	gold_bow		46	gold_dagger		56	x
+7	wood			17	x		27	x			37	diamond_bow		47	diamond_dagger		57	x
+8	x			18	x		28	x			38	mystical_bow		48	mystical_dagger		58	x
+9	x			19	x		29	x			39	legendary_bow		49	legendary_dagger	59	x
+10	x			20	x		30	x			40	ultimate_bow		50	ultimate_dagger		60	x

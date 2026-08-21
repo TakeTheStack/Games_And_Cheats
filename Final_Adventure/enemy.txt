@@ -1,0 +1,11 @@
+id	name		lvl	health		mana		strength	range		defense		loots_id	loots_name	head	body	leg
+1	goblin		1	25		25		1		1		1		0		nothing		¨	o	m	
+2	slime		1	20		50		1		1		2		0		nothing		-	o	-
+3	wasp		1	35		25		1		2		1		1		needle		"	O	/
+4	rat		1	15		10		1		1		0		2		bad_leather	0	/	0
+5	bandit		2	50		50		2		2		2		31		dagger		+	O	M
+6	wild_boar	2	65		30		2		1		2		4		leather		^	*	0
+7	snake		2	40		15		3		1		1		4		leather		0	~	0
+8	skeleton	3	75		55		3		2		3		5		bones		¨	H	L
+9	lizard_man	3	85		60		3		2		4		31		wooden_bow	~	O	M	
+10	wolf		3	80		35		3		2		2		6		fur		0	K	0		
