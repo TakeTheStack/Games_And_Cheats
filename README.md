@@ -1,5 +1,5 @@
 # Games_And_Cheats
-Differents games and cheats that I made with C ; i made cheats by reversing and disassemble the object file with Ghidra (or another tools).
+Differents games and cheats that I made with C ; i made cheats by reversing and disassemble the object file mostly with Ghidra (you can use another reversing tools too).
 
 Allowed: You can hack this game with contribution, in order to improve this game or just for the fun, if you want too ;)
 Not-allowed: You are not allowed each of these games into malware AND/OR running them on an electronic device that you do not own.
@@ -34,7 +34,9 @@ I disassemble the object file with Ghidra and patch several instructions, which 
 
 ### Fourth Game: FINAL ADVENTURE (Experimental RPG Game)
 Please be aware that this game is experimental and not stable.
+Be careful, the softwares and the cheats need to be put into the final adventure directory.
 
 ## Cheat 1: God like
 
 ## Cheat 2: Soften the target
+I disassemble the object file with Ghidra, in order to instantly kill the enemy.
