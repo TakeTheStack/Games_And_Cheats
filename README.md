@@ -32,12 +32,12 @@ also to give the possible for the player to get through all the protections.
 ### cheat 2: Instant Win
 I disassemble the object file with Ghidra and patch several instructions, which mean, every time you start the game, you win.
 
-### Fourth Game: FINAL ADVENTURE (Experimental RPG Game)
+## Fourth Game: FINAL ADVENTURE (Experimental RPG Game)
 Please be aware that this game is experimental and not stable.
 Be careful, the softwares and the cheats need to be put into the final adventure directory.
 
-## Cheat 1: God like
+### Cheat 1: God like
 I disassemble the object file with Ghidra and put max stats (health, mana, etc.), for each class (warrior, mage, ...) in the game. 
 
-## Cheat 2: Soften the target
+### Cheat 2: Soften the target
 I disassemble the object file with Ghidra, in order to instantly kill the enemy.
