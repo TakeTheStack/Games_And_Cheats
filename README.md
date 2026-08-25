@@ -37,6 +37,7 @@ Please be aware that this game is experimental and not stable.
 Be careful, the softwares and the cheats need to be put into the final adventure directory.
 
 ## Cheat 1: God like
+I disassemble the object file with Ghidra and put max stats (health, mana, etc.), for each class (warrior, mage, ...) in the game. 
 
 ## Cheat 2: Soften the target
 I disassemble the object file with Ghidra, in order to instantly kill the enemy.
